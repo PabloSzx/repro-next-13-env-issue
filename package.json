@@ -1,0 +1,11 @@
+{
+  "name": "repro-next-13-env-issue",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "main": "./index.mjs",
+  "types": "./index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  }
+}
